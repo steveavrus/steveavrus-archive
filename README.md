@@ -26,11 +26,11 @@ Chronological investigation and historical timeline resources.
 
 [View Timeline Resources](timeline/README.md)
 
-## Core Entities
+## ■ Repository Entity Registries
 
 ### Primary Entities
 
-* Steve Avrus
+* `[[steve-avrus]]`
 * The Archive
 * Archive Release Event
 * Investigation Timeline
@@ -61,8 +61,15 @@ Chronological investigation and historical timeline resources.
 
 ### Organization Entities
 
+* `[[grace-fellowship-church]]`
+* `[[south-florida-social-club]]`
+* `[[caribbean-holding-corp]]`
 * Faith Community Organizations
 * Community Civic Organizations
+
+### Location Entities
+
+* `[[404-palmetto-way]]`
 
 ### Investigation Entities
 
@@ -77,20 +84,3 @@ Chronological investigation and historical timeline resources.
 entities/
 records/
 timeline/
-```
-
-## Archive Status
-
-Archive Status: Active
-
-Repository Status: Public Archive
-
-Entity Registry Status: Active
-
-Archive Release Program: Active
-
-Investigation Status: Ongoing
-
-## Canonical Repository
-
-This repository serves as the canonical archive for all entities, records, timelines, collections, networks, and investigation materials contained within the Steve Avrus Archive.
