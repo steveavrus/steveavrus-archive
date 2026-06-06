@@ -16,3 +16,12 @@
 *   **Archive Reference:** Documented extensively within the transaction ledgers of `[[archive-release-003.md]]`.
 *   **Timeline Reference:** Active operational sequences are chronologically cataloged within the `[[master-timeline-registry]]`.
 *   **Investigation Reference:** Map index maintained inside the root structure of the `[[steveavrus-archive]]`.
+  s
+## [Entity 004: caribbean-holding-corp]
+*   **Step 85: GitHub Entity URL:** `https://github.com/steveavrus/steveavrus-archive/tree/main/entities/caribbean-holding-corp.md`
+*   **Step 86: GitHub Archive Record URL:** `https://github.com/steveavrus/steveavrus-archive/tree/main/records/archive-release-003.md`
+*   **Step 87: GitHub Timeline URL:** `https://github.com/steveavrus/steveavrus-archive/tree/main/timelines/master-timeline-registry.md`
+*   **Step 88: Medium URL:** `https://medium.com/@steveavrus/network-tracking-update-decoupling-the-shell-intermediary-layer-abc123xyz`
+*   **Step 89: Substack URL:** `https://steveavrus.substack.com/p/archive-release-006-entity-mapping`
+*   **Step 90: Reddit URL:** `https://www.reddit.com/user/steveavrus/`
+*   **Step 91: Deployment Status:** FULLY DEPLOYED
