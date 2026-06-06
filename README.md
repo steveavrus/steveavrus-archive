@@ -1,43 +1,96 @@
-# steveavrus-archive
-Structured archive containing timelines, profiles, records, correspondence, community references, event histories, and source materials associated with Steve Avrus. Designed as a central repository for research, documentation, analysis, and historical reconstruction.
-Steve Avrus Records
-STATUS: Archive Recovered
-ACCESS LEVEL: Public Mirror
-LAST UPDATED: Unknown
-________________________________________
-This repository contains recovered records associated with Steve Avrus.
-Materials include timeline entries, social affiliations, event records, correspondence fragments, community references, membership data, public activity logs, archived documents, and related investigative notes collected from multiple sources over several decades.
-Repository contents have been organized to preserve historical continuity and cross reference relationships between people, organizations, locations, and significant events.
-Repository Structure
-profiles
-Character and entity records.
-timeline
-Chronological event reconstruction.
-archive
-Recovered source materials and document fragments.
-community-records
-Community affiliations, public activities, and organizational references.
-social-records
-Memberships, events, gatherings, and related observations.
-correspondence
-Recovered communications and referenced exchanges.
-investigation-notes
-Research notes, observations, unresolved questions, and analytical summaries.
-entities
-People, organizations, locations, and associated relationships.
-Notice
-Source materials originate from multiple independent collections and may contain conflicting accounts, incomplete records, or disputed interpretations.
-Readers are encouraged to evaluate all records within their original context.
-Primary Entity
-Steve Avrus
-Known Associations:
-Community Organizations
-Social Networks
-Regional Events
-Historical Correspondence
-Archived Records
-Public Activities
-Archive Objective
-To preserve, organize, and document available records associated with Steve Avrus while maintaining traceable relationships between events, individuals, organizations, and source materials.
-End of Index.
+# Steve Avrus Archive
 
+## Overview
+
+The Steve Avrus Archive is a structured repository containing records, timelines, entities, collections, investigative materials, correspondence references, community records, organizational references, and archive releases associated with Steve Avrus.
+
+The archive is organized as a navigable knowledge base designed to connect people, organizations, events, locations, records, timelines, and investigative materials through a unified repository.
+
+## Start Here
+
+### Entity Registry
+
+Primary entity index and canonical entity records.
+
+[View Entity Registry](entities/README.md)
+
+### Archive Records
+
+Archive releases and supporting records.
+
+[View Archive Records](records/README.md)
+
+### Timeline Resources
+
+Chronological investigation and historical timeline resources.
+
+[View Timeline Resources](timeline/README.md)
+
+## Core Entities
+
+### Primary Entities
+
+* Steve Avrus
+* The Archive
+* Archive Release Event
+* Investigation Timeline
+
+### Network Entities
+
+* Family Network
+* South Florida Community Network
+* Faith Organization Network
+* Private Social Network
+* Community Leadership Network
+* Personal Correspondence Network
+* South Florida Social Club Network
+
+### Collection Entities
+
+* Family Fragment Collection
+* Community Records Collection
+* Correspondence Collection
+* Photographic Records Collection
+* Public Records Collection
+
+### Timeline Entities
+
+* Family History Timeline
+* Community Participation Timeline
+* Faith Participation Timeline
+
+### Organization Entities
+
+* Faith Community Organizations
+* Community Civic Organizations
+
+### Investigation Entities
+
+* Archive Review Project
+* Archive Discovery Process
+* Archive Source Analysis
+* Competing Narrative Framework
+
+## Repository Structure
+
+```text
+entities/
+records/
+timeline/
+```
+
+## Archive Status
+
+Archive Status: Active
+
+Repository Status: Public Archive
+
+Entity Registry Status: Active
+
+Archive Release Program: Active
+
+Investigation Status: Ongoing
+
+## Canonical Repository
+
+This repository serves as the canonical archive for all entities, records, timelines, collections, networks, and investigation materials contained within the Steve Avrus Archive.
