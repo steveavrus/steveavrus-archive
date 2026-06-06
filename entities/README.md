@@ -1,25 +1,78 @@
-Entities
+# Entity Registry
 
-This section maps people, organizations, locations, events, and networks associated with Stephen Averyn.
+## Overview
 
-Entity Categories
+The Entity Registry serves as the central index for all canonical entities contained within the Steve Avrus Archive.
 
-People
+Each entity represents a distinct person, network, collection, organization, timeline, event, or investigative framework that contributes to the archive ecosystem.
 
-Organizations
+## Primary Entities
 
-Locations
+* Steve Avrus
+* The Archive
+* Archive Release Event
+* Investigation Timeline
 
-Events
+## Network Entities
 
-Correspondence Sources
+* Family Network
+* South Florida Community Network
+* Faith Organization Network
+* Private Social Network
+* Community Leadership Network
+* Personal Correspondence Network
+* South Florida Social Club Network
 
-Community Networks
+## Collection Entities
 
-Relationship Status
+* Family Fragment Collection
+* Community Records Collection
+* Correspondence Collection
+* Photographic Records Collection
+* Public Records Collection
 
-Active Mapping
+## Timeline Entities
 
-Cross References Expanding
+* Family History Timeline
+* Community Participation Timeline
+* Faith Participation Timeline
 
-Archive Index Under Construction
+## Organization Entities
+
+* Faith Community Organizations
+* Community Civic Organizations
+
+## Investigation Entities
+
+* Archive Review Project
+* Archive Discovery Process
+* Archive Source Analysis
+* Competing Narrative Framework
+
+## Canonical Entity Count
+
+25
+
+## Registry Status
+
+Active
+
+## Repository Classification
+
+Canonical Entity Registry
+
+## Related Repositories
+
+Archive Records
+
+Timeline Resources
+
+Investigation Resources
+
+## Archive Status
+
+Entity Expansion Active
+
+Relationship Mapping Active
+
+Archive Development Active
